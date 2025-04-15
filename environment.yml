@@ -1,0 +1,13 @@
+name: jobmarket_pulse_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - wordcloud
+  - jupyterlab
+  - notebook
